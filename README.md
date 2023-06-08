@@ -4,6 +4,6 @@ A basic React application using the OMDB API. Search and explore movies effortle
 
 ## Screenshots
 <p align="center">
-<img src="https://i.ibb.co/RNnHGFF/Movios2.png" alt="Movios2" border="0" />
-<a href="https://ibb.co/h9nNspr"><img src="https://i.ibb.co/yPMC0LK/Movios1.png" alt="Movios1" border="0"></a>
+<img src="https://i.ibb.co/RNnHGFF/Movios2.png" alt="Movios2" width="400" />
+<img src="https://i.ibb.co/yPMC0LK/Movios1.png" alt="Movios1" width="400"></a>
 </p>
